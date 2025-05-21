@@ -1,0 +1,8 @@
+{
+  "name": "he2",
+  "version": "1.0.0",
+  "description": "Учебный курс, созданный с помощью wannacode",
+  "scripts": {
+    "new-task": "wannacode new-task"
+  }
+}
